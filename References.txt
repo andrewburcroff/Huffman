@@ -1,0 +1,20 @@
+﻿1) Justen Pacsai (Classmate)
+2) https://www.sitepoint.com/heap-data-structure-ruby/
+3) https://github.com/kanwei/algorithms
+4) https://www.tutorialspoint.com/ruby/ruby_comments.htm
+5) https://github.com/profmaad/ruby-sml/blob/master/lib/ruby-sml/sml-getprofilelist.rb
+6) https://www.sitepoint.com/heap-data-structure-ruby/
+7) https://www.ruby-forum.com/topic/107753
+8) http://www.brianstorti.com/implementing-a-priority-queue-in-ruby/
+9) http://stackoverflow.com/questions/29133040/new-to-ruby-uninitialized-constant-error
+10) http://stackoverflow.com/questions/6486443/nameerror-in-ruby
+11) https://coderwall.com/p/oo1xlw/ruby-convert-a-string-to-an-array-of-characters
+12) https://ruby-doc.org/core-1.9.3/Hash.html#method-i-has_key-3F
+13) http://stackoverflow.com/questions/1484952/iterating-over-each-character-of-a-string-in-ruby-1-8-6-each-char
+14) https://rubygems.org/gems/algorithms
+15) https://github.com/kanwei/algorithms/blob/master/lib/containers/heap.rb
+16) https://gist.github.com/mreid/fdf6353ec39d050e972b
+17) https://gist.github.com/wilkerlucio/322447
+18) http://rubyalgorithms.com/binary_search_tree.html
+
+
